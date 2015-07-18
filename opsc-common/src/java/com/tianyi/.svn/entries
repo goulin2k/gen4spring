@@ -1,0 +1,34 @@
+10
+
+dir
+198
+http://25.30.5.64:8888/Subversion/ComponentLibrary/java/tianyi-common/src/java/com/tianyi
+http://25.30.5.64:8888/Subversion/ComponentLibrary
+
+
+
+2014-08-19T11:20:25.975080Z
+195
+goulin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79793187-61b3-6e43-b037-42a9060e8748
+
+common
+dir
+
+util
+dir
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<generatorConfiguration>   
+	<context>
+		<property name="generate-dir-source" value="gen/java"/>
+		<property name="generate-dir-template" value="/templates"/>
+		<property name="generate-dir-web" value="gen/web/jsp"/>
+		
+		<property name="package-action" value="com.tiyi.tyapp.web.controller"/>
+		<property name="package-service" value="com.tiyi.tyapp.service"/>
+		<property name="package-service-impl" value="com.tiyi.tyapp.service.impl"/>
+		<property name="package-dao" value="com.tiyi.tyapp.dao"/>		
+		<property name="package-model" value="com.tiyi.tyapp.model"/>
+		
+		<property name="template-service" value="service.ftl"/>
+		<property name="template-serviceImpl" value="serviceImpl.ftl"/>
+		<property name="template-action" value="action.ftl"/>
+		<property name="template-jsp-list" value="list.jsp.ftl"/>
+		<property name="template-jsp-view" value="view.jsp.ftl"/>
+		
+		<property name="suffix-dao" value="Mapper"/>
+		<property name="suffix-service" value="Service"/>
+		<property name="suffix-action" value="Controller"/>
+	</context>
+
+	<modle name="com.tiyi.gen.model.Demo"/>
+
+</generatorConfiguration> 

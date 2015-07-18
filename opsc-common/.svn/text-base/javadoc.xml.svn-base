@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" docencoding="GBK" encoding="utf-8" author="true" classpath="." destdir="doc" doctitle="天翼固件库 - Java公共组件库" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.tianyi.util" source="1.5" sourcepath="src/java;src/test;src/demo" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
